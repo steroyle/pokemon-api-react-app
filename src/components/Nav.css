@@ -1,0 +1,19 @@
+.nav-container {
+  margin: auto;
+  width: 920px;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  background: #f44336;
+  border: 0px;
+  color: #fff;
+  padding: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+  background: #dc281b;
+}

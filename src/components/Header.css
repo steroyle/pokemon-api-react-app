@@ -1,0 +1,22 @@
+header {
+  background: #3c5aa6;
+  color: #ffcb05;
+  padding: 30px;
+  text-align: center;
+}
+
+header p {
+  color: #fff;
+  margin-bottom: 0;
+}
+
+.title {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.title a {
+  text-decoration: none;
+  color: inherit;
+}
