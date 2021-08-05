@@ -66,7 +66,7 @@ function App() {
           </div>
         )
       }
-
+      <Nav next={next} prev={prev} />
     </div>
   );
 }
