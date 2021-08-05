@@ -10,6 +10,16 @@ header p {
   margin-bottom: 0;
 }
 
+.github a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.github a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
 .title {
   margin: 0;
   padding: 0;
